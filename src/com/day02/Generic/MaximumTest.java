@@ -1,4 +1,4 @@
-package com.day02.Generic;
+package src.com.day02.Generic;
 
 /**
  * 泛型方法返回三个可比较对象的最大值。

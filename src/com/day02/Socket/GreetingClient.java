@@ -1,4 +1,4 @@
-package com.day02.Socket;
+package src.com.day02.Socket;
 
 import java.io.*;
 import java.net.*;

@@ -1,4 +1,4 @@
-package com.day02.JavaSendEmail;
+package src.com.day02.JavaSendEmail;
 
 /**
  * 需要用户名密码邮件发送实例

@@ -1,4 +1,4 @@
-package com.day02.Serializable;
+package src.com.day02.Serializable;
 
 import java.io.*;
 

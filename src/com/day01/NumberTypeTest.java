@@ -1,4 +1,4 @@
-package com.day01;
+package src.com.day01;
 
 public class NumberTypeTest {
     public static void main(String[] args) {

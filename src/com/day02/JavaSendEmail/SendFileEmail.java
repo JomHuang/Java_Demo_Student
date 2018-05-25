@@ -1,4 +1,4 @@
-package com.day02.JavaSendEmail;
+package src.com.day02.JavaSendEmail;
 
 import java.util.*;
 import javax.mail.*;

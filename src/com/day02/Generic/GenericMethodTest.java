@@ -1,4 +1,4 @@
-package com.day02.Generic;
+package src.com.day02.Generic;
 
 /**
  * 泛型 Generic

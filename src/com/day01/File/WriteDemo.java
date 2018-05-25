@@ -1,4 +1,4 @@
-package com.day01.File;
+package src.com.day01.File;
 
 public class WriteDemo {
     public static void main(String args[]) {
