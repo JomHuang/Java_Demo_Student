@@ -1,5 +1,8 @@
 package src.com.day01;
 
+import java.lang.reflect.Array;
+import java.util.List;
+
 public class NumberTypeTest {
     public static void main(String[] args) {
         System.out.println("90 度的正弦值：" + Math.sin(Math.PI / 2));
@@ -14,6 +17,8 @@ public class NumberTypeTest {
         for (double num : nums) {
             test(num);
         }
+
+        //排序
     }
 
     private static void test(double num) {
@@ -21,4 +26,6 @@ public class NumberTypeTest {
         System.out.println("Math.round(" + num + ")=" + Math.round(num));
         System.out.println("Math.ceil(" + num + ")=" + Math.ceil(num));
     }
+
+
 }
